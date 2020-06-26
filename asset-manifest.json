@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d3949f9e.chunk.css",
+    "main.js": "/static/js/main.e00b65f5.chunk.js",
+    "main.js.map": "/static/js/main.e00b65f5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3fd4a70d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3fd4a70d.js.map",
+    "static/js/2.52f3bb14.chunk.js": "/static/js/2.52f3bb14.chunk.js",
+    "static/js/2.52f3bb14.chunk.js.map": "/static/js/2.52f3bb14.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5164769dc5a741f95aaa8fde2c468e6a.js": "/precache-manifest.5164769dc5a741f95aaa8fde2c468e6a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d3949f9e.chunk.css.map": "/static/css/main.d3949f9e.chunk.css.map",
+    "static/js/2.52f3bb14.chunk.js.LICENSE.txt": "/static/js/2.52f3bb14.chunk.js.LICENSE.txt",
+    "static/media/ascii.jpg": "/static/media/ascii.59ce2e62.jpg",
+    "static/media/github.svg": "/static/media/github.f1375e56.svg",
+    "static/media/notesync.jpg": "/static/media/notesync.0aa0e686.jpg",
+    "static/media/pingpong.jpg": "/static/media/pingpong.32c51a03.jpg",
+    "static/media/stylophone.jpg": "/static/media/stylophone.a464c088.jpg",
+    "static/media/sudoku.jpg": "/static/media/sudoku.870de134.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fd4a70d.js",
+    "static/js/2.52f3bb14.chunk.js",
+    "static/css/main.d3949f9e.chunk.css",
+    "static/js/main.e00b65f5.chunk.js"
+  ]
+}
